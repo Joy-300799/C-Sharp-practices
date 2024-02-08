@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/bin/Debug/net8.0/hashset
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/bin/Debug/net8.0/hashset.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/bin/Debug/net8.0/hashset.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/bin/Debug/net8.0/hashset.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/bin/Debug/net8.0/hashset.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/refint/hashset.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/hashset.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/hashset/obj/Debug/net8.0/ref/hashset.dll

@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/bin/Debug/net8.0/dictionary
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/bin/Debug/net8.0/dictionary.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/bin/Debug/net8.0/dictionary.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/bin/Debug/net8.0/dictionary.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/bin/Debug/net8.0/dictionary.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/refint/dictionary.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/dictionary.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/dictionary/obj/Debug/net8.0/ref/dictionary.dll

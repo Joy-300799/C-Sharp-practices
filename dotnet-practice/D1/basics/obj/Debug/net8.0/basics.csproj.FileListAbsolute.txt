@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/bin/Debug/net8.0/basics
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/bin/Debug/net8.0/basics.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/bin/Debug/net8.0/basics.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/bin/Debug/net8.0/basics.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/bin/Debug/net8.0/basics.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/refint/basics.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/basics.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/basics/obj/Debug/net8.0/ref/basics.dll

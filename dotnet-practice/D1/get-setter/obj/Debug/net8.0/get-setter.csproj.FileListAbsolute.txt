@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/bin/Debug/net8.0/get-setter
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/bin/Debug/net8.0/get-setter.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/bin/Debug/net8.0/get-setter.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/bin/Debug/net8.0/get-setter.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/bin/Debug/net8.0/get-setter.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/refint/get-setter.dll
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.pdb
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/get-setter.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D1/get-setter/obj/Debug/net8.0/ref/get-setter.dll

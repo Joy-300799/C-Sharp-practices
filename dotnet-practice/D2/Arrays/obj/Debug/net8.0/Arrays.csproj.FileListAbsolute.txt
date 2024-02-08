@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/bin/Debug/net8.0/Arrays
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Arrays/obj/Debug/net8.0/ref/Arrays.dll
