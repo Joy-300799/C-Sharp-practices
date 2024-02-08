@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/bin/Debug/net8.0/D2
+/Users/18543/Documents/Github/dotnet-practice/D2/bin/Debug/net8.0/D2.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D2/bin/Debug/net8.0/D2.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D2/bin/Debug/net8.0/D2.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/bin/Debug/net8.0/D2.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/refint/D2.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/D2.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/obj/Debug/net8.0/ref/D2.dll

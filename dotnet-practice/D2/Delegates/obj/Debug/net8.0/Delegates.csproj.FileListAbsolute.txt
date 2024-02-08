@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/bin/Debug/net8.0/Delegates
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/bin/Debug/net8.0/Delegates.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/bin/Debug/net8.0/Delegates.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/bin/Debug/net8.0/Delegates.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/bin/Debug/net8.0/Delegates.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/refint/Delegates.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/Delegates.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Delegates/obj/Debug/net8.0/ref/Delegates.dll

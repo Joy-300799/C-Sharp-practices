@@ -1,0 +1,14 @@
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/bin/Debug/net8.0/Classes-and-Interfaces
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/bin/Debug/net8.0/Classes-and-Interfaces.deps.json
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/bin/Debug/net8.0/Classes-and-Interfaces.runtimeconfig.json
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/bin/Debug/net8.0/Classes-and-Interfaces.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/bin/Debug/net8.0/Classes-and-Interfaces.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.AssemblyInfoInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.AssemblyInfo.cs
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/refint/Classes-and-Interfaces.dll
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.pdb
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/Classes-and-Interfaces.genruntimeconfig.cache
+/Users/18543/Documents/Github/dotnet-practice/D2/Classes-and-Interfaces/obj/Debug/net8.0/ref/Classes-and-Interfaces.dll
