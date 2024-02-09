@@ -1,0 +1,12 @@
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/bin/Debug/net8.0/MathLib.deps.json
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/bin/Debug/net8.0/MathLib.dll
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/bin/Debug/net8.0/MathLib.pdb
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.AssemblyInfoInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.AssemblyInfo.cs
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.sourcelink.json
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.dll
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/refint/MathLib.dll
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/MathLib.pdb
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/MathLib/obj/Debug/net8.0/ref/MathLib.dll
