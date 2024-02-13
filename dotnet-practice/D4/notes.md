@@ -1,5 +1,6 @@
 # Throwing an exception
 
+```
 public class Program
 {
 public static void Foo()
@@ -11,6 +12,7 @@ public static void Main()
 Foo();
 }
 }
+```
 
 # The above programs crashes with a non-zero exit code because the caller hasn't handled the exception
 
@@ -18,6 +20,7 @@ Foo();
 
 # Handling exceptions
 
+```
 public class Program
 {
 public static void Foo()
@@ -40,9 +43,11 @@ Console.WriteLine(e.Message);
 }
 }
 }
+```
 
 # Custom exceptions
 
+```
 public class MyException : Exception
 {
 public MyException(string message) : base(message)
@@ -68,9 +73,11 @@ Console.WriteLine(e.Message);
 }
 }
 }
+```
 
 # Multiple catch blocks
 
+```
 public class MyException : Exception
 {
 public MyException(string message) : base(message)
@@ -100,9 +107,11 @@ Console.WriteLine("Generic exception thrown");
 }
 }
 }
+```
 
 # Flow of events
 
+```
 public class NegativeNumberException : Exception
 {
 }
@@ -138,15 +147,17 @@ Console.WriteLine("Always runs");
 }
 }
 }
+```
 
-# First try with Foo(5)
+## First try with Foo(5)
 
-# Then try with Foo(0)
+## Then try with Foo(0)
 
-# Then try with Foo(-1)
+## Then try with Foo(-1)
 
-# Why do we need finally? Will the statements after the try/catch not always run?
+### Why do we need finally? Will the statements after the try/catch not always run?
 
+```
 public class NegativeNumberException : Exception
 {
 }
@@ -179,9 +190,11 @@ Console.WriteLine("Generic exception thrown");
 Console.WriteLine("Always runs");
 }
 }
+```
 
 # The difference is when we have a throw in the catch
 
+```
 public class NegativeNumberException : Exception
 {
 }
@@ -216,6 +229,7 @@ throw;
 Console.WriteLine("Always runs");
 }
 }
+```
 
 # Now we see that "Always runs" is not printed
 
