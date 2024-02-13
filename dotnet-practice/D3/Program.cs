@@ -171,3 +171,46 @@ public class Program
 //! Value types are either stack-allocated or allocated inline in a structure. Reference types are heap-allocated.
 
 //? Numeric types and Booleans are "struct" types
+
+
+//! Question: Build a single method called FilterAndMap that takes a list of numbers as input and a filter function and map function, applies the filter first and on the filtered data, applies the map.
+//! We can use it as follows:
+//! nums.FilterAndMap(x => x % 2 == 0, x => x * x)
+
+namespace MyNamespace
+{
+    public delegate bool FilterDelegate(int a);
+    public delegate int MapDelegate(int a);
+
+    public class FuncHandler
+    {
+        public static IList<int> FilterAndMap(List<int> nums, FilterDelegate filterFunc, MapDelegate mapFunc)
+        {
+            List<int> filteredData = new List<int>();
+            foreach (var num in nums)
+            {
+                if (filterFunc(num)) // if the int is even no., then squaring it.
+                {
+                    filteredData.Add(mapFunc(num));
+                }
+            }
+
+            return filteredData;
+        }
+    }
+    public class Program
+    {
+        public static void Main()
+        {
+            var nums = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            var res = FuncHandler.FilterAndMap(nums, x => x % 2 == 0, x => x * x);
+
+            foreach (var item in res)
+            {
+                Console.WriteLine(item);
+            }
+        }
+    }
+}
+
+//! Output: [4, 16, 36, 64, 100];
