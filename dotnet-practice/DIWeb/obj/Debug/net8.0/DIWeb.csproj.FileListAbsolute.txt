@@ -1,0 +1,6 @@
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIWeb/obj/Debug/net8.0/DIWeb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIWeb/obj/Debug/net8.0/DIWeb.AssemblyInfoInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIWeb/obj/Debug/net8.0/DIWeb.AssemblyInfo.cs
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIWeb/obj/Debug/net8.0/DIWeb.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIWeb/obj/Debug/net8.0/DIWeb.MvcApplicationPartsAssemblyInfo.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIWeb/obj/Debug/net8.0/DIWeb.sourcelink.json
