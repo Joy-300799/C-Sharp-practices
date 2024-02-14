@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgwtPQ2VPowBGi9jgJ40nz5MrfLchMVbl0CielDMwOGDVcPVJc3Ooy9gYG8qRUKG90f39GiiPrRJ5+sP5mrcww==",
+  "success": true,
+  "projectFilePath": "/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/DIConsole/DIConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/18543/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/18543/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
