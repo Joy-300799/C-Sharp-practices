@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFCoreHelloWorld")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65bb7fce311816977e58e17554fef997c16ba85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8570ac890702cd92507becaca34ec0a03052f17")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFCoreHelloWorld")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFCoreHelloWorld")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
