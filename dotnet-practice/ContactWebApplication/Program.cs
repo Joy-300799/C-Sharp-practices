@@ -12,24 +12,6 @@ public class Contact
     public int Phone { get; set; }
 }
 
-// public class DBSetupMiddleware
-// {
-//     private readonly RequestDelegate _next;
-//     private readonly AppDbContext _dbContext;
-
-//     public DBSetupMiddleware(RequestDelegate next, AppDbContext dbContext)
-//     {
-//         _next = next;
-//         _dbContext = dbContext;
-//     }
-
-//     public async Task InvokeAsync(HttpContext context)
-//     {
-//         await _dbContext.Database.EnsureCreatedAsync();
-//         Console.WriteLine("DB Connected!!");
-//         await _next(context);
-//     }
-// }
 
 public class AppDbContext : DbContext
 {
@@ -78,7 +60,6 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
         var app = builder.Build();
         var contactIdCounter = 1;
-        // app.UseMiddleware<DBSetupMiddleware>();
 
         app.MapGet("/", () => "Jai Shree Ram");
 
