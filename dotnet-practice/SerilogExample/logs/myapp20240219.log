@@ -1,0 +1,18 @@
+2024-02-19 13:01:32.264 +05:30 [INF] Now listening on: http://localhost:5259
+2024-02-19 13:01:32.316 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-19 13:01:32.316 +05:30 [INF] Hosting environment: Development
+2024-02-19 13:01:32.316 +05:30 [INF] Content root path: /Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/SerilogExample
+2024-02-19 13:03:13.104 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5259/hello - null null
+2024-02-19 13:03:13.121 +05:30 [INF] Executing endpoint 'HelloController.Index (SerilogExample)'
+2024-02-19 13:03:13.127 +05:30 [INF] Route matched with {action = "Index", controller = "Hello"}. Executing controller action with signature System.String Index() on controller HelloController (SerilogExample).
+2024-02-19 13:03:13.128 +05:30 [VRB] This is a Trace log
+2024-02-19 13:03:13.128 +05:30 [DBG] This is a Debug log
+2024-02-19 13:03:13.128 +05:30 [INF] This is an Information log
+2024-02-19 13:03:13.128 +05:30 [WRN] This is a Warning log
+2024-02-19 13:03:13.128 +05:30 [ERR] This is an Error log
+2024-02-19 13:03:13.128 +05:30 [FTL] This is a Critical log
+2024-02-19 13:03:13.130 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2024-02-19 13:03:13.136 +05:30 [INF] Executed action HelloController.Index (SerilogExample) in 7.1887ms
+2024-02-19 13:03:13.138 +05:30 [INF] Executed endpoint 'HelloController.Index (SerilogExample)'
+2024-02-19 13:03:13.138 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5259/hello - 200 null text/plain; charset=utf-8 35.281ms
+2024-02-19 13:45:49.476 +05:30 [INF] Application is shutting down...

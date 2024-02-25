@@ -1,0 +1,15 @@
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/bin/Debug/net8.0/GlobalizationExample
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/bin/Debug/net8.0/GlobalizationExample.deps.json
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/bin/Debug/net8.0/GlobalizationExample.runtimeconfig.json
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/bin/Debug/net8.0/GlobalizationExample.dll
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/bin/Debug/net8.0/GlobalizationExample.pdb
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.AssemblyInfoInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.AssemblyInfo.cs
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.sourcelink.json
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.dll
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/refint/GlobalizationExample.dll
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.pdb
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/GlobalizationExample.genruntimeconfig.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/GlobalizationExample/obj/Debug/net8.0/ref/GlobalizationExample.dll

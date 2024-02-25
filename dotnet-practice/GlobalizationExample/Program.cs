@@ -25,3 +25,9 @@ namespace GlobalizationExample
     }
   }
 }
+
+// dotnet run
+// dotnet run en-IN
+// dotnet run fr-FR
+// dotnet run en-US
+// dotnet run ar-SA

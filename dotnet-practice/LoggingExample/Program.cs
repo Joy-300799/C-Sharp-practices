@@ -40,4 +40,14 @@ public class Program
     }
 }
 
+// dotnet run
+
+// curl http://localhost:<port>/hello
+
+// # Observe that it generates Info level logs and beyond
+
+// # Change the Log Level in appsettings.Developer.json
+// "Default": "Trace"
+
+// dotnet run
 // curl http://localhost:<port>/hello
