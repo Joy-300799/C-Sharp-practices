@@ -1,0 +1,5 @@
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/obj/Debug/net8.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/obj/Debug/net8.0/practice.AssemblyInfoInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/obj/Debug/net8.0/practice.AssemblyInfo.cs
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/obj/Debug/net8.0/practice.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/obj/Debug/net8.0/practice.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yc+9NM7N6fDVcyV917XzrE1vl1o44fFHFneFm7VJIdVOqB3Fo+EXcFKl9Deuzpqg775Nual3f8wFUy76nTc9mQ==",
+  "dgSpecHash": "rQu9qbtWTRCucefUQr2U7MAySdjV7q6/C6C1Prod9pnpY9fpArBkpxcb/EMyfichjdzsjUGWJFuSp8pLc4B8aQ==",
   "success": true,
-  "projectFilePath": "/Users/18543/Documents/Github/dotnet-practice/practice/practice.csproj",
+  "projectFilePath": "/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/practice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

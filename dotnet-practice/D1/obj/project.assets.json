@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/18543/Documents/Github/dotnet-practice/practice/practice.csproj",
+      "projectUniqueName": "/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/practice.csproj",
       "projectName": "practice",
-      "projectPath": "/Users/18543/Documents/Github/dotnet-practice/practice/practice.csproj",
+      "projectPath": "/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/practice.csproj",
       "packagesPath": "/Users/18543/.nuget/packages/",
-      "outputPath": "/Users/18543/Documents/Github/dotnet-practice/practice/obj/",
+      "outputPath": "/Users/18543/Documents/Self/C-Sharp-practices/dotnet-practice/D1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/18543/.nuget/NuGet/NuGet.Config"
@@ -26,7 +26,8 @@
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://omnicell.jfrog.io/artifactory/api/nuget/nextgen-nuget-official": {}
       },
       "frameworks": {
         "net8.0": {
@@ -38,6 +39,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
