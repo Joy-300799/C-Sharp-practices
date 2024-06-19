@@ -1,0 +1,15 @@
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/bin/Debug/net8.0/helloworld
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.sourcelink.json
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/18543/Documents/Self/C-Sharp-practices/repeat/helloworld/obj/Debug/net8.0/ref/helloworld.dll
